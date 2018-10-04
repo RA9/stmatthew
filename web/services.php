@@ -1,4 +1,4 @@
-<?php 
+<?php
   require_once("includes/functions.php");
   $title = "St Matthew Alumina Association";
   require_once("includes/header.php");
@@ -35,7 +35,7 @@
       <div class="row">
             <div class="col-md-4 text-center">
               <h1 class="mt-5">We Advocate!</h1>
-              <img src="vendor/img/students.jpg" alt="" class="img-fluid img-thumbnail">
+              <img src="vendor/img/student.jpg" alt="" class="img-fluid img-thumbnail">
               <p class="lead">Complete with pre-defined file paths and responsive navigation!
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat odio commodi consequatur ex recusandae cumque vitae quos? Nostrum, officia. Omnis, sequi. Perferendis nisi totam sed mollitia inventore, cumque quis suscipit.
               </p>
@@ -60,8 +60,8 @@
           </div>
     </div>
     <br>
-    
 
-   <?php 
+
+   <?php
           require_once("includes/footer.php");
          ?>
